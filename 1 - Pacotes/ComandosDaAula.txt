@@ -1,0 +1,20 @@
+
+Inicia um Modulo onde centraliza os pacotes
+go mod init modulo
+
+Roda O Programa
+go run Primeiro.go
+./modulo  (Dessa forma roda o Executavel)
+
+
+Cria arquivo binario Executavel
+go build
+
+
+Para definir se a func é Private ou Public o primiro 
+carater do nome precisa estar em MAISCULO ex:
+Escrever() //Public 
+escrever //Private
+
+
+Boa pratica de GO , por sempre comentarios das funçoes em cima dela
